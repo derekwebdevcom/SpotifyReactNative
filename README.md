@@ -4,8 +4,8 @@ React Native Spotify Application with TypeScript, GraphQL & AWS Services(Amplify
 
 # Complete Backend Recreating Spotify's API
 
-![Final App](./readmepics/image1.png =150x50)
-![Final App](./readmepics/image2.png =150x50)
+![Final App](./readmepics/image1.png)
+![Final App](./readmepics/image2.png)
 
 # Live Demo on Expo
 
