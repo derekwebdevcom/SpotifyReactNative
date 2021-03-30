@@ -26,7 +26,7 @@ This project uses the following technologies:
 
 Please ensure you have all the above dependencies installed on your system including [Expo CLI](https://nodejs.org/en/), [Xcode(iOs)](https://nodejs.org/en/), [Android Studio](https://nodejs.org/en/) [Node.js](https://nodejs.org/en/)
 
--[Clone] git@github.com:derekwebdevcom/SkyCloud-Exchange.git for Mac or -[Download Zip](https://github.com/derekwebdevcom/SkyCloud-Exchange/archive/master.zip) for Windows
+-[Clone]https://github.com/derekwebdevcom/SpotifyReactNative.git for Mac or -[Download Zip](https://github.com/derekwebdevcom/SpotifyReactNative/archive/refs/heads/main.zip) for Windows
 
 ## Quick Start:
 
